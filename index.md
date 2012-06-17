@@ -1,46 +1,38 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: About Me
+tagline: 
 ---
-{% include JB/setup %}
+Welcome to my homepage!
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+My name is Xinfan Meng (蒙新泛). I am a PhD student in Peking University.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+My research interests include: natural language processing, machine learning and sentiment analysis.
+I use Python, C++ and R.
 
-## Update Author Attributes
+##My Projects
+My github page is here: [https://github.com/fannix](https://github.com/fannix).
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
+##My Posts
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
-## To-Do
+##Publications
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+<ol>
+<li><b>Detecting opinionated sentences by extracting context information.</b>  NTCIR-7.Xinfan Meng and Houfeng Wang. <a href="http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings7/pdf/NTCIR7/C2/MOAT/12-NTCIR7-MOAT-MengX.pdf">link </a> </li>
 
+<li><b>Mining user reviews: from specification to summarization.</b> ACL 2009. Xinfan Meng and Houfeng Wang. <a href="http://aclweb.org/anthology-new/P/P09/P09-2045.pdf">link </a></li>
 
+<li><b>主客观识别中的上下文因素的研究.</b> 中国计算机语言学研究前沿进展 (2007-2009), 2009. 蒙新泛 and 王厚峰. </li>
+
+<li><b>Build chinese emotion lexicons using a graph-based algorithm and multiple resources.</b> COLING 2010. Ge Xu, Xinfan Meng, and Houfeng Wang.<a href="http://aclweb.org/anthology-new/C/C10/C10-1136.pdf">link </a></li>
+
+<li> <b>Cross-Lingual mixture model for sentiment classification.</b> ACL 2012. Xinfan Meng, Furu Wei, Xiaohua Liu, Ming Zhou, and Houfeng Wang.</li>
+
+<li><b>Entity-centric topic-oriented opinion summarization in twitter.</b> KDD 2012. Xinfan Meng, Furu Wei, Xiaohua Liu, Ming Zhou, and Houfeng Wang. </li>
+</ol>
