@@ -8,10 +8,17 @@ Welcome to my homepage!
 My name is Xinfan Meng (蒙新泛). I am a PhD student in Peking University.
 
 My research interests include: natural language processing, machine learning and sentiment analysis.
-I use Python, C++ and R.
+
+I use Python, C++ and R to develop.
 
 ##My Projects
 My github page is here: [https://github.com/fannix](https://github.com/fannix).
+
+I am a contributor of [scikit-learn](http://scikit-learn.org/stable/) and [NLTK](http://nltk.org/);
+scikit-learn is the best machine learning package in Python,
+and NLTK is the best natural language process toolkit in Python.
+If you don't believe, try them yourself!
+
 
 
 ##My Posts
