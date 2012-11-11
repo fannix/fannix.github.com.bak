@@ -35,6 +35,7 @@ If you don't believe, try them yourself!
 
 <li><b>Mining user reviews: from specification to summarization.</b> ACL 2009. Xinfan Meng and Houfeng Wang. <a href="http://aclweb.org/anthology-new/P/P09/P09-2045.pdf">link </a></li>
 
+<li><b>基于多模态学习的情感评级.</b> COAE 2009. 徐戈, 蒙新泛 and 王厚峰</li>
 <li><b>主客观识别中的上下文因素的研究.</b> 中国计算机语言学研究前沿进展 (2007-2009), 2009. 蒙新泛 and 王厚峰. </li>
 
 <li><b>Build Chinese emotion lexicons using a graph-based algorithm and multiple resources.</b> COLING 2010. Ge Xu, Xinfan Meng, and Houfeng Wang.<a href="http://aclweb.org/anthology-new/C/C10/C10-1136.pdf">link </a></li>
