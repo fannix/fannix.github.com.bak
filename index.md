@@ -5,7 +5,7 @@ tagline:
 ---
 Welcome to my homepage!
 
-My name is Xinfan Meng (蒙新泛). I am a PhD student in Peking University.
+My name is Xinfan Meng (蒙新泛). I am a PhD student in Peking University. You can contact me via "@".join(["mxf3306", "gmail.com"]).
 
 My research interests include: natural language processing, machine learning and sentiment analysis.
 
@@ -37,7 +37,7 @@ If you don't believe, try them yourself!
 
 <li><b>主客观识别中的上下文因素的研究.</b> 中国计算机语言学研究前沿进展 (2007-2009), 2009. 蒙新泛 and 王厚峰. </li>
 
-<li><b>Build chinese emotion lexicons using a graph-based algorithm and multiple resources.</b> COLING 2010. Ge Xu, Xinfan Meng, and Houfeng Wang.<a href="http://aclweb.org/anthology-new/C/C10/C10-1136.pdf">link </a></li>
+<li><b>Build Chinese emotion lexicons using a graph-based algorithm and multiple resources.</b> COLING 2010. Ge Xu, Xinfan Meng, and Houfeng Wang.<a href="http://aclweb.org/anthology-new/C/C10/C10-1136.pdf">link </a></li>
 
 <li> <b>Cross-Lingual mixture model for sentiment classification.</b> ACL 2012. Xinfan Meng, Furu Wei, Xiaohua Liu, Ming Zhou, and Houfeng Wang.</li>
 
